@@ -15,4 +15,4 @@
   <a href="https://github.com/SoftStoneDevelop/Gedaq.SqlClient/tree/main/Documentation/Readme.md">Documentation</a>
 </h3>
 
-Attributes required for [Gedaq ORM](https://github.com/SoftStoneDevelop/Gedaq) operation for database supported Microsoft.Data.SqlClient.
+Attributes required for [Gedaq ORM](https://github.com/SoftStoneDevelop/Gedaq) operation for database supported [Microsoft.Data.SqlClient](https://github.com/dotnet/sqlclient).
