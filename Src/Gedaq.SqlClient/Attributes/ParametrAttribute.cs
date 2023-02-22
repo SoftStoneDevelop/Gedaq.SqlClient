@@ -2,7 +2,7 @@
 using System.Data;
 using System.Data.SqlTypes;
 
-namespace Gedaq.Npgsql.Attributes
+namespace Gedaq.SqlClient.Attributes
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct | AttributeTargets.Method, AllowMultiple = true)]
     public sealed class ParametrAttribute : Attribute

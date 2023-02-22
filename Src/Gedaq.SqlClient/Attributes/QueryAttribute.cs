@@ -1,7 +1,7 @@
 ﻿using Gedaq.Common.Enums;
 using System;
 
-namespace Gedaq.Npgsql.Attributes
+namespace Gedaq.SqlClient.Attributes
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct | AttributeTargets.Method, AllowMultiple = true)]
     public sealed class QueryAttribute : Attribute
