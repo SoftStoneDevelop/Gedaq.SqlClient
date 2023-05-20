@@ -8,7 +8,6 @@ namespace Gedaq.SqlClient.Attributes
     public sealed class ParametrAttribute : Attribute
     {
         public ParametrAttribute(
-            string methodName,
             Type parametrType,
             string parametrName = null,
             SqlCompareOptions compareInfo = SqlCompareOptions.None,
