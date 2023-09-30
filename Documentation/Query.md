@@ -8,7 +8,9 @@ public QueryAttribute(
   Type queryMapType = null,
   MethodType methodType = MethodType.Sync,
   QueryType queryType = QueryType.Read,
-  bool generate = true
+  bool generate = true,
+  AccessModifier accessModifier = AccessModifier.AsContainingClass,
+  AsyncResult asyncResultType = AsyncResult.ValueTask
   )
 
 ```

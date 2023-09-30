@@ -16,3 +16,5 @@
 </h3>
 
 Attributes required for [Gedaq ORM](https://github.com/SoftStoneDevelop/Gedaq) operation for database supported [Microsoft.Data.SqlClient](https://github.com/dotnet/sqlclient).
+
+Something is still not clear and [Documentation](https://github.com/SoftStoneDevelop/Gedaq.SqlClient/tree/main/Documentation/Readme.md) does not help? [Feel free to ask a question on StackOverflow](https://stackoverflow.com/questions/ask?tags=gedaq,sqlclient,c%23)
