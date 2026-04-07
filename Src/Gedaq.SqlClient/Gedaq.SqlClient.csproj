@@ -12,7 +12,7 @@
 		<Authors>Brevnov Vyacheslav Sergeevich</Authors>
 		<RepositoryUrl>https://github.com/SoftStoneDevelop/Gedaq.SqlClient</RepositoryUrl>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-		<Description>Attributes required for Gedaq ORM operation for PostgreSQL database.</Description>
+		<Description>Attributes required for Gedaq ORM operation for MsSQL database.</Description>
 		<PackageTags>orm, database, gedaq, attribute, ObjectRelationalMapping, sql, mssql</PackageTags>
 		<NoPackageAnalysis>true</NoPackageAnalysis>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
