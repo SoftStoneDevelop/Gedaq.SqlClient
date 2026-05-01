@@ -5,12 +5,12 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Gedaq.Common" Version="10.0.0" />
+		<PackageReference Include="Gedaq.Common" Version="10.0.0.2" />
 		<PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.1" />
 	</ItemGroup>
 	<PropertyGroup>
 		<PackageId>Gedaq.SqlClient</PackageId>
-		<PackageVersion>10.0.0.0</PackageVersion>
+		<PackageVersion>10.0.0.1</PackageVersion>
 		<Authors>Brevnov Vyacheslav Sergeevich</Authors>
 		<RepositoryUrl>https://github.com/SoftStoneDevelop/Gedaq.SqlClient</RepositoryUrl>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
